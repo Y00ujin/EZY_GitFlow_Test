@@ -12,6 +12,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // EZY GitFlow Test
+        // EZY master merge completed
     }
 
 
